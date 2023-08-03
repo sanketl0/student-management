@@ -1,0 +1,19 @@
+
+
+.card{
+    position: relative;
+    left: 50%;
+    margin-top: 12%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 55px;
+    background-color: #fff;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.377);
+    background-color: aqua;
+
+}
+h1{
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+}

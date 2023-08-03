@@ -1,0 +1,63 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "sanket Lodhe",
+      "email": "sanket@gmail.com",
+      "mobile": 7896541230,
+      "city": "pune",
+      "pincode": 145236
+    }
+  ],
+  "signup": [
+    {
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "mobile": 123456789,
+      "password": "password@123",
+      "id": 1
+    },
+    {
+      "name": "sanket",
+      "email": "sanket@gmail.com",
+      "mobile": 1234569870,
+      "password": "pass@123",
+      "id": 2
+    },
+    {
+      "name": "new",
+      "email": "new@gmail.com",
+      "mobile": 8523697410,
+      "password": "Pass@#@!",
+      "id": 3
+    },
+    {
+      "name": "abc",
+      "email": "abc@gmail.com",
+      "mobile": 7413698520,
+      "password": "abc@123",
+      "id": 5
+    },
+    {
+      "name": "xyz",
+      "email": "xyz@gmail.com",
+      "mobile": 7896541243,
+      "password": "xyz@123",
+      "id": 7
+    },
+    {
+      "name": "vishal",
+      "email": "vishl@444gmail.com",
+      "mobile": 9921576550,
+      "password": "Pass@123",
+      "id": 8
+    },
+    {
+      "name": "prathmesh",
+      "email": "prathmeshkamble@gmail.com",
+      "mobile": 8465456151,
+      "password": "12345",
+      "id": 9
+    }
+  ]
+}
