@@ -1,5 +1,5 @@
 export class studentdata{
-    id:number=0;
+    id:number;
     name :string="";
     email: string="";
     mobile:string="";
